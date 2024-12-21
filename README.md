@@ -1,1 +1,2 @@
 # GestureSound
+GestureSound is a hands-free system that allows users to control their device's volume using hand gestures. Using a webcam and MediaPipe for hand tracking, the system detects gestures like pointing up or down to increase or decrease the volume. This project offers an intuitive way to adjust audio settings without physical interaction.
